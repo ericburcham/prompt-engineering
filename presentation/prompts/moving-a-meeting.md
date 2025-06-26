@@ -1,0 +1,1 @@
+I'm a team manager and we have a new schedule for our leadership meeting. Write an email informing our staff of the need for a new schedule due to my desire to have a nice lunch every day. Highlight the fact that our Tuesday Leadership Meeting changed from 11:00-12:00 to 2:00-3:00. Make the email professional and friendly, and short so that readers can skim it quickly.
